@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Jabez Borja's Github Stats](https://github-readme-stats.vercel.app/api?username=jabezborja&count_private=true&show_icons=true&hide=contribs,prs,issues&include_all_commits=true)](https://github.com/jabezborja)
 
 <!--
 **jabezborja/jabezborja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
