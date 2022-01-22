@@ -1,16 +1,16 @@
-[![Jabez Borja's Github Stats](https://github-readme-stats.vercel.app/api?username=jabezborja&count_private=true&show_icons=true&hide=contribs,prs,issues&include_all_commits=true)](https://github.com/jabezborja)
+<h1 align="center">Hi 👋, I'm Jabez Borja</h1>
+<h4 align="center">I'm Jabez Borja, a 17-year old self-taught technical enthusiast who does startups, web development, and software development. Passionate to create and contribute open-source projects and make cool products.</h4>
 
-<!--
-**jabezborja/jabezborja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Koowentu](https://koowentu.com), [GGWP.link](https://ggwp.link), and [Jabs.ga](https://jabsga.herokuapp.com)
+- 🌱 I’m currently learning [Reactjs](https://reactjs.org)
+- 👯 I’m looking to collaborate on Startups
+- 💬 Ask me about Python
+- 😄 Pronouns: He/Him
+</br>
+<table style="margin-top: 5px;">
+  <tr>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jabezborja&show_icons=true" alt="jabezborja" /></td>
+    <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabezborja&layout=compact&hide=html" alt="jabezborja" /></td>
+  </tr>
+</table>
+  
