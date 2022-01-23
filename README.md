@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jabez Borja</h1>
-<h4 align="center">I'm Jabez Borja, a 17-year old self-taught technical enthusiast who does startups, web development, and software development. Passionate to create and contribute open-source projects and make cool products.</h4>
+## Hi 👋, I'm Jabez Borja
+I'm Jabez Borja, a 17-year old self-taught technical enthusiast who does startups, web development, and software development. Passionate to create and contribute open-source projects and make cool products.
+
+[![GitHub Jabez](https://img.shields.io/github/followers/jabezborja?label=follow&style=social)](https://github.com/jabezborja)
 
 - 🔭 I’m currently working on [Koowentu](https://koowentu.com), [GGWP.link](https://ggwp.link), and [Jabs.ga](https://jabsga.herokuapp.com)
 - 🌱 I’m currently learning [Smart Contracts](https://www.google.com/search?client=firefox-b-d&q=smart+contracts), [Solidity](https://soliditylang.org/), [Node.js](https://nodejs.org), [React.js](https://reactjs.org)
