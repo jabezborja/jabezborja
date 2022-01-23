@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Jabez Borja
-I'm Jabez Borja, a 17-year old self-taught technical enthusiast who does startups, web development, and software development. Passionate to create and contribute open-source projects and make cool products.
+A 17-year old self-taught technical enthusiast who does startups, web development, and software development. Passionate to create and contribute open-source projects and make cool products.
 
 [![GitHub Jabez](https://img.shields.io/github/followers/jabezborja?label=follow&style=social)](https://github.com/jabezborja)
 
