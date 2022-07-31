@@ -3,8 +3,7 @@ An 18-year old self-taught tech enthusiast who does startups, web development, a
 
 [![GitHub Jabez](https://img.shields.io/github/followers/jabezborja?label=follow&style=social)](https://github.com/jabezborja)
 
-- 🔭 I’m currently working on [Koowentu](https://koowentu.com), [PyFyre](https://github.com/pyfyre/pyfyre), and [GGWP.link](https://ggwp.link)
-- 🌱 I’m currently learning [Smart Contracts](https://www.google.com/search?client=firefox-b-d&q=smart+contracts), [Solidity](https://soliditylang.org/), [Node.js](https://nodejs.org), [React.js](https://reactjs.org)
+- 🔭 I’m currently working on Freelancing, [PyFyre](https://github.com/pyfyre/pyfyre), and [GGWP.link](https://ggwp.link)
 - 👯 I’m looking to collaborate on [PyFyre](https://github.com/pyfyre/pyfyre)
 - 💬 Ask me a lot about Python
 - 😄 Pronouns: He/Him
