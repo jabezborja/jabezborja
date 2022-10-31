@@ -4,7 +4,7 @@ An 18-year old self-taught tech enthusiast who does startups, web development, a
 [![GitHub Jabez](https://img.shields.io/github/followers/jabezborja?label=follow&style=social)](https://github.com/jabezborja)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabezborja&label=Profile%20views&color=0e75b6&style=flat" alt="edmer664" /> </p>
 
-- 🔭 I’m currently working on Freelancing, [PyFyre](https://github.com/pyfyre/pyfyre), and [GGWP.link](https://ggwp.link)
+- 🔭 I’m currently working on Freelancing, [PyFyre](https://github.com/pyfyre/pyfyre), and some personal projects.
 - 👯 I’m looking to collaborate on [PyFyre](https://github.com/pyfyre/pyfyre)
 - 💬 Ask me a lot about Python
 - 😄 Pronouns: He/Him
