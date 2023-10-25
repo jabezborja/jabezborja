@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Jabez Borja
-A self-taught tech enthusiast who does startups, web development, and software development. Passionate to create and contribute open-source projects and make cool products. 
+A self-taught tech enthusiast who does startups, web development, and software development. Passionate to write clean code and software design systems. I also love contributing to open-source projects and make cool products.
+
+My craziest hot take is that I kinda hate PHP but according to GitHub, it is my most used programming language.
 
 [![GitHub Jabez](https://img.shields.io/github/followers/jabezborja?label=follow&style=social)](https://github.com/jabezborja)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabezborja&label=Profile%20views&color=0e75b6&style=flat" alt="edmer664" /> </p>
