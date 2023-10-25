@@ -4,9 +4,8 @@ A self-taught tech enthusiast who does startups, web development, and software d
 [![GitHub Jabez](https://img.shields.io/github/followers/jabezborja?label=follow&style=social)](https://github.com/jabezborja)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabezborja&label=Profile%20views&color=0e75b6&style=flat" alt="edmer664" /> </p>
 
-- 🔭 I’m currently working on Freelancing, [Tambayan](https://tambayan.link), [PyFyre](https://github.com/pyfyre/pyfyre), and some personal projects.
-- 👯 I’m looking to collaborate on [PyFyre](https://github.com/pyfyre/pyfyre)
-- 💬 Ask me a lot about Python
+- 🔭 I’m currently working on StackSpace, a B2B software development firm who does tech stuff for businesses, yknow.
+- 💬 Ask me about Python
 - 😄 Pronouns: He/Him
 </br>
 <table style="margin-top: 5px;">
