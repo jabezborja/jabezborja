@@ -4,7 +4,8 @@ I'm a self-taught tech enthusiast deeply involved in startups, web development, 
 [![GitHub Jabez](https://img.shields.io/github/followers/jabezborja?label=follow&style=social)](https://github.com/jabezborja)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabezborja&label=Profile%20views&color=0e75b6&style=flat" alt="edmer664" /> </p>
 
-- 🔭 I’m currently a Software Engineer at Keev, BGC Manila, Philippines
+- 🔭 I’m currently a Software Engineer @ Keev, BGC Manila, Philippines.
+- 🚀 Also currently the Tech Lead @ StackSpace, we develop products for our clients and SaaS products.
 - 💬 Ask me about software designs, software architecture, cloud infrastructure, etc.
 </br>
 <table style="margin-top: 5px;">
