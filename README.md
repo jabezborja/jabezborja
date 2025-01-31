@@ -6,7 +6,7 @@ Passionate to write clean code and software design systems. Over the years, I've
 [![GitHub Jabez](https://img.shields.io/github/followers/jabezborja?label=follow&style=social)](https://github.com/jabezborja)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabezborja&label=Profile%20views&color=0e75b6&style=flat" alt="edmer664" /> </p>
 
-- 🔭 I’m currently a Tech Lead @ Keev, an EU-Based Venture Studio
+- 🔭 I’m currently a Tech Lead @ Keev, an EU-Based Venture Studio building products for both US and EU markets.
 - 🚀 Also currently the Managing Partner @ StackSpace, we develop products for our clients and SaaS products.
 - 💬 Ask me about software designs, software architecture, cloud infrastructure, etc.
 </br>
